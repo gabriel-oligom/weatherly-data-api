@@ -5,3 +5,5 @@ __pycache__/
 *.pyc
 
 data_small/.ipynb_checkpoints/
+
+data_small/*.ipynb
