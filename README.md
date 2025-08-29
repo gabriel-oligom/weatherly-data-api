@@ -22,7 +22,6 @@ A aplicação também possui uma página inicial simples em HTML para exibir a l
 - **Flask** – framework para criação da API REST
 - **Pandas** – manipulação e filtragem dos dados meteorológicos
 - **HTML** – renderização da página inicial
-- **CSV** – formato dos arquivos de dados fornecidos
 
 
 
@@ -31,7 +30,7 @@ Desenvolver o Weatherly foi essencial pra praticar e reforçar ainda mais:
 - Desenvolvimento de APIs REST com Flask
 - Leitura e manipulação de dados com Pandas
 - Criação de rotas dinâmicas em Flask
-- Renderização de tabelas HTML usando Jinja
+- Renderização de tabelas HTML
 - Organização e processamento de datasets meteorológicos
 
 
