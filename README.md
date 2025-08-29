@@ -74,4 +74,4 @@ http://127.0.0.1:5001/home
 ## 📸 Preview
 
 ### Página Inicial
-![Página Inicial](images\weatherly_full_print.png)
+![Página Inicial](images/weatherly_full_print.png)
